@@ -1,0 +1,9 @@
+git reset <nome de arquivo> -> tira o arquivo que estava para comittar
+git checkout <nome branch> -> troca de branch com o -b antes ele cria
+git merge <nome da branch> -> mescla a branch atual com a escolhida
+git branch -> mostra a branch atual e todas as branchs existentes
+git branch -d <nome branch> -> deleta a branch escolhida
+git branch -m <novo nome> -> muda o nome da branch
+git remote add origin <url>.git -> conecta com o github https com o repo atual que vc já criou com o repo do github.
+git push -u origin main -> na primeira vez use o -u para o git se lembrar e depois usar o git push e git pull simplificado
+
