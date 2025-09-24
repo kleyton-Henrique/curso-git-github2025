@@ -1,5 +1,8 @@
 Este arquivo contém informações adicionais para git
 
--primeiro comando 
--secundo comando
+- primeiro comando 
+- secundo comando
+
+# comandos mais genéricos
+- comandos estranhos
 
