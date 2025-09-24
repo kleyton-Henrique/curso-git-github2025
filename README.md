@@ -10,7 +10,8 @@ Além disso vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 
 
-Confira tudo o que temos no nosso canal do youtube.
+Confira tudo o que temos no nosso canal do youtube. no teo me why
+sério o cara é bom.
 
 
 
